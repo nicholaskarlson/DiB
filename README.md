@@ -1,7 +1,7 @@
 # Dart in Brief with AWS, Firebase, and Flutter (DiB) - v0.2
 
 ## Overview
-DiB is an open-source book focusing on the Dart programming language along with Firebase and Flutter. This book includes topics on Dart's basics, its type system, and its use in Flutter development.
+DiB is an open-source book focusing on the Dart programming language along with AWS, Firebase, and Flutter. This book includes topics on Dart's basics, its type system, and its use in Flutter development.
 
 ## Contents
 - Introduction to Dart
